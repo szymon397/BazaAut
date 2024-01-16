@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = program_na_zaliczenie
+build_property.ProjectDir = G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\

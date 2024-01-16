@@ -1,0 +1,71 @@
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\program na zaliczenie.exe
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\program na zaliczenie.deps.json
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\program na zaliczenie.runtimeconfig.json
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\program na zaliczenie.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\program na zaliczenie.pdb
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.csproj.AssemblyReference.cache
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.AssemblyInfoInputs.cache
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.AssemblyInfo.cs
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.csproj.CoreCompileInputs.cache
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\refint\program na zaliczenie.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.pdb
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.genruntimeconfig.cache
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\ref\program na zaliczenie.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\AWSSDK.Core.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\DnsClient.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\MongoDB.Bson.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\MongoDB.Driver.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\SharpCompress.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Snappier.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\ZstdSharp.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\obj\Debug\net6.0\program na zaliczenie.csproj.CopyComplete
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Azure.Core.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Azure.Identity.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Memory.Data.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\00_STUDIA\01_SZEMATOWICZ_C#\PRACE ZALICZENIOWE\program na dwie bazy\program na zaliczenie\program na zaliczenie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
